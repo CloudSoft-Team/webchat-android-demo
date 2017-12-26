@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         it.putExtra("custId", "eflkqjw"); // 用户标识id
         it.putExtra("imUserNick", "Lucky");// 用户昵称
         it.putExtra("MessageFlag", "1"); // 接收未读消息
-        it.putExtra("strIMUserheadimgurl","http://112.124.37.196:7006/UF/customavatars/000/00/35/73_avatar_middle.jpg");
+        it.putExtra("strIMUserHeadImgUrl","http://112.124.37.196:7006/UF/customavatars/000/00/35/73_avatar_middle.jpg");
         startActivity(it);
     }
 
